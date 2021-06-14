@@ -1,0 +1,20 @@
+[
+    {
+        "School": "Northwestern Region #7",
+        "Major": "High School",
+        "Type": "HS",
+        "YearConferred": 2012
+    },
+    {
+        "School": "Endicott College",
+        "Major": "Computer Science",
+        "Type": "BS",
+        "YearConferred": 2016
+    },
+    {
+        "School": "Boston University",
+        "Major": "Software Development",
+        "Type": "MS",
+        "YearConferred": 2021
+    }
+]
